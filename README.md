@@ -3,7 +3,7 @@ L'ensemble de données Cora comprend 2708 publications scientifiques classées d
 Exercice 1 - Baseline
 ==========
 
-Dans datasets, vous trouverez features.npy, une matrice numpy (n_nodes, n_features) qui représentent les features des noeuds du graphe.
+Dans datasets, vous trouverez features.npy, une matrice numpy (n_nodes, n_features) qui représente les features des noeuds du graphe.
 Vous trouverez également labels.npy, la matrice binaire (n_nodes, n_labels) qui décrit le label des noeuds.
 * créer un modèle simple avec Keras (ou n'importe quel autre librairie) permettant la classification des labels à partir des features
 * calculer la précision sur un split de taille 0.2
