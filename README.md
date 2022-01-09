@@ -14,5 +14,5 @@ Exercice 2
 
 Le graphe correspondant est le fichier G.gexf. L'ordre des noeuds dans G.nodes correspond à l'ordre des matrices de features et de labels.
 * créer un simple GCN (fonction d'activation : tanh) à un seul layer
-* en annulant les labels à certains noeuds aléatoires, calculer la validation accuracy sur un spit de taille 0.2
+* en annulant les labels à certains noeuds aléatoires, calculer la validation accuracy sur un split de taille 0.2
 * étendre le GCN à 2 layers et calculer sa précision
